@@ -1,2 +1,2 @@
-# cinema-ptoject
+# cinema-project
 учебный проект
